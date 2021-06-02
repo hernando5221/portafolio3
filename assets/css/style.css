@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #546066;
+  color: #47b2e4;
 }
 
 a:hover {
@@ -528,11 +528,6 @@ section {
   overflow: hidden;
 }
 
-
-.section-bg1 {
-  background-color: #fbfdff;
-}
-
 .section-bg {
   background-color: #f3f5fa;
 }
@@ -673,7 +668,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #366fd3;
+  color: #37517e;
 }
 
 .why-us .content h4 {
